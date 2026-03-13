@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>古怪的路易博客</title><link>https://MrTangLuyao.github.io/MyBlog</link><description>Stange Louie's Blog</description><copyright>古怪的路易博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/MrTangLuyao/homepage/refs/heads/main/lib/po.webp</url><title>avatar</title><link>https://MrTangLuyao.github.io/MyBlog</link></image><lastBuildDate>Tue, 10 Mar 2026 14:07:09 +0000</lastBuildDate><managingEditor>古怪的路易博客</managingEditor><ttl>60</ttl><webMaster>古怪的路易博客</webMaster><item><title>Hello World</title><link>https://MrTangLuyao.github.io/MyBlog/post/Hello%20World.html</link><description>Hello World to my Blog!。</description><guid isPermaLink="true">https://MrTangLuyao.github.io/MyBlog/post/Hello%20World.html</guid><pubDate>Tue, 10 Mar 2026 13:56:50 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>古怪的路易博客</title><link>https://MrTangLuyao.github.io/MyBlog</link><description>Stange Louie's Blog</description><copyright>古怪的路易博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/MrTangLuyao/homepage/refs/heads/main/lib/po.webp</url><title>avatar</title><link>https://MrTangLuyao.github.io/MyBlog</link></image><lastBuildDate>Fri, 13 Mar 2026 15:31:41 +0000</lastBuildDate><managingEditor>古怪的路易博客</managingEditor><ttl>60</ttl><webMaster>古怪的路易博客</webMaster><item><title>澳洲免费FTTB千兆网络分享-VisionNetworks</title><link>https://MrTangLuyao.github.io/MyBlog/post/ao-zhou-mian-fei-FTTB-qian-zhao-wang-luo-fen-xiang--VisionNetworks.html</link><description>很多人尤其是像我一样的留学生选了公寓之后，开网会发现NBN由于采用电话线也就是FTTB最高只能有100M，而且巨贵，这个时候就很苦恼，吐槽澳洲的垃圾网络，然后只能忍受这个速度用几年了，吗？如果你不好奇技术想看结论可以直接看总结
+
+# Part1 介绍: 
+
+这里有几个信息差各位可能不知道的
+
+1- 澳洲NBN不是唯一的联网方式  
+2- 你的公寓很可能同时有多种技术  
+3- FTTB的极限其实能超过千兆  
+
+故事的开始是一个叫TPG的集团了，集团成员有TPG，iinet和Vodafone，他们集团搞了个Vision网络对标NBN，价格良心速度快。</description><guid isPermaLink="true">https://MrTangLuyao.github.io/MyBlog/post/ao-zhou-mian-fei-FTTB-qian-zhao-wang-luo-fen-xiang--VisionNetworks.html</guid><pubDate>Fri, 13 Mar 2026 15:31:13 +0000</pubDate></item><item><title>Hello World</title><link>https://MrTangLuyao.github.io/MyBlog/post/Hello%20World.html</link><description>Hello World to my Blog!。</description><guid isPermaLink="true">https://MrTangLuyao.github.io/MyBlog/post/Hello%20World.html</guid><pubDate>Tue, 10 Mar 2026 13:56:50 +0000</pubDate></item></channel></rss>
